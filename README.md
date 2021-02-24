@@ -1,1 +1,1 @@
-Simple IOS weahter app using openweather API
+Simple IOS weather app using openweather API
